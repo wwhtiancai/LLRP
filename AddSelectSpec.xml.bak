@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddSelectSpec Version="1" MessageID="5">
+	<SelectSpec>
+		<SelectSpecID>250</SelectSpecID>
+		<Priority>0</Priority>
+		<CurrentState>Disabled</CurrentState>
+		<Persistence>0</Persistence>
+		<SelectSpecStartTrigger>
+			<SelectSpecStartTriggerType>Periodic</SelectSpecStartTriggerType>
+			<PeriodicTrigger>
+				<Offset>0</Offset>
+				<Period>100</Period>
+			</PeriodicTrigger>
+		</SelectSpecStartTrigger>
+		<SelectSpecStopTrigger>
+			<SelectSpecStopTriggerType>Null</SelectSpecStopTriggerType>
+			<DurationValue>0</DurationValue>
+		</SelectSpecStopTrigger>
+		<AntennaSpec>
+			<AntennaIDs>0</AntennaIDs>
+			<AntennaSpecStopTrigger>
+				<AntennaSpecStopTriggerType>Null</AntennaSpecStopTriggerType>
+				<DurationValue>0</DurationValue>
+			</AntennaSpecStopTrigger>
+			<RfSpec>
+				<RfSpecID>100</RfSpecID>
+				<ProtocolID>Hb</ProtocolID>
+				<SelectType>Read</SelectType>
+				<MemoryBank>
+					<Count>10</Count>
+					<Pointer>4</Pointer>
+					<MemoryBankID>0</MemoryBankID>
+					<ReadType>AS_Type</ReadType>
+					<BankType>All</BankType>
+				</MemoryBank>
+			</RfSpec>
+		</AntennaSpec>
+	</SelectSpec>
+</AddSelectSpec>

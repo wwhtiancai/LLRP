@@ -1,0 +1,1 @@
+{"SelectSpecID":"250","Priority":"0","CurrentState":"0","Persistence":"0","selectSpecStartTriggerType":"2","Offset":"0","Period":"100","DurationValue":"0","SelectSpecStopTriggerType":"0","AntennaSpecStopTriggerType":"0","AntennaIDs":"1,2,3","ProtocolID":"0","SelectType":"1","RfSpecID":"100","Count":"10","Pointer":"4","MemoryBankID":"0","ReadType":"0","BankType":"2"}

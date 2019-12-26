@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">org.llrp.ltk.bean.**
+org.llrp.ltk.ctrl.**
+org.llrp.ltk.exceptions.**
+org.llrp.ltk.generated.**
+org.llrp.ltk.mongo.**
+org.llrp.ltk.net.**
+org.llrp.ltk.redis.**
+org.llrp.ltk.test.**
+org.llrp.ltk.types.**
+org.llrp.ltk.util.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">org.llrp.ltk.bean.*,
+org.llrp.ltk.ctrl.*,
+org.llrp.ltk.exceptions.*,
+org.llrp.ltk.generated.*,
+org.llrp.ltk.mongo.*,
+org.llrp.ltk.net.*,
+org.llrp.ltk.redis.*,
+org.llrp.ltk.test.*,
+org.llrp.ltk.types.*,
+org.llrp.ltk.util.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+</properties>

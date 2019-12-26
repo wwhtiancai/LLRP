@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="llrp">
+    <output-path>$PROJECT_DIR$/out/artifacts/llrp</output-path>
+    <root id="root" />
+  </artifact>
+</component>

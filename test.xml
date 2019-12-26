@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TagSelectAccessReport MessageID='1845105808'>
+  <TagReportData>
+    <TID>232 130 0 0 40 87 2 48</TID>
+    <SelectSpecID>
+      <SelectSpecID>250</SelectSpecID>
+    </SelectSpecID>
+    <SpecIndex>
+      <SpecIndex>1</SpecIndex>
+    </SpecIndex>
+    <RfSpecID>
+      <RfSpecID>100</RfSpecID>
+    </RfSpecID>
+    <AntennaID>
+      <AntennaID>1</AntennaID>
+    </AntennaID>
+    <PeakRSSI>
+      <PeakRSSI>0</PeakRSSI>
+    </PeakRSSI>
+    <FirstSeenTimestampUTC>
+      <Microseconds>1970-01-01T00:00:00.000000Z</Microseconds>
+    </FirstSeenTimestampUTC>
+    <LastSeenTimestampUTC>
+      <Microseconds>1970-01-01T00:00:00.000000Z</Microseconds>
+    </LastSeenTimestampUTC>
+    <TagSeenCount>
+      <TagCount>1</TagCount>
+    </TagSeenCount>
+    <AccessSpecID>
+      <AccessSpecID>0</AccessSpecID>
+    </AccessSpecID>
+    <CustomizedSelectSpecResult>
+      <Result>0</Result>
+      <ReadDataInfo>
+        <CID>
+          <CIDData>2 0 0 64 8</CIDData>
+        </CID>
+        <FPDH>
+          <FPDHData>19 1</FPDHData>
+        </FPDH>
+        <SYXZ>
+          <SYXZData>4</SYXZData>
+        </SYXZ>
+        <CCRQ>
+          <CCRQData>53 1</CCRQData>
+        </CCRQ>
+        <CLLX>
+          <CLLXData>145 0</CLLXData>
+        </CLLX>
+        <GL>
+          <GLData>60</GLData>
+        </GL>
+        <HPZL>
+          <HPZLData>1</HPZLData>
+        </HPZL>
+        <HPHMXH>
+          <HPHMXHData>26 27 0 0 1</HPHMXHData>
+        </HPHMXH>
+        <JYYXQ>
+          <JYYXQData>46 0</JYYXQData>
+        </JYYXQ>
+        <QZBFQ>
+          <QZBFQData>14</QZBFQData>
+        </QZBFQ>
+        <CSYS>
+          <CSYSData>0</CSYSData>
+        </CSYS>
+        <ZKZL>
+          <ZKZLData>69 0</ZKZLData>
+        </ZKZL>
+      </ReadDataInfo>
+    </CustomizedSelectSpecResult>
+  </TagReportData>
+</TagSelectAccessReport>

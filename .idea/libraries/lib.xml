@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongo-java-driver-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-core-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-codec-netty-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jargs-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/morph-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-integration-jmx-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-compression-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-ssl-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-ssl-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-compression-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesSamples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.4.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jargs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-integration-spring-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-integration-spring-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka_2.11-0.10.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-filter-codec-netty-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mina-integration-jmx-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.8.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-clients-0.10.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jalopy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/velocity-1.7-dep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ltkjava-1.0.0.6-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ojdbc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/velocity-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
